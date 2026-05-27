@@ -31,7 +31,7 @@ Pastikan Python sudah terinstal di perangkat Anda.
 
 ### 1. Menjalankan Versi CLI
 ```bash
-python code.py
+python test.py
 ```
 ### 2. Menjalankan Versi Streamlit (Web)
 Install dependensi yang diperlukan:
